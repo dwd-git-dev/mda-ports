@@ -461,3 +461,28 @@ samples; packed binary 1,024,522 B.
   verified after the mirror). The two `tests/sound.cpp` cases in
   mda-recorder-soprano/mda-recorder-tenor were the visible tip; the sweep
   covers the whole rename class.
+
+
+## 2026-11-16 (session 13): repository created and published
+
+- Local repo initialized in `mda-ports/`; single commit `6f7d995`
+  ("Catalog of 64 Open-XY machines, MDA Piano 1.0 ports, SDK-verified"),
+  1,300 files, working tree clean. Local commit author: `dwd-git-dev` /
+  `dwd-git-dev@users.noreply.github.com` (disclosed; not auto-linked to a
+  verified email). Machine-level CI files kept as blueprints; inert in this
+  single-root layout.
+- `.gitattributes` set text=auto with text filetype tracking; `.gitignore`
+  covers build junk. Plain text storage of the 10-bit sample arrays (~141 MB);
+  no LFS needed.
+- `gh` CLI installed portable (user-local, not on PATH); user authorized via
+  browser (https://github.com/login/device, one-time code). Repo created and
+  pushed 2026-11-16: **https://github.com/dwd-git-dev/mda-ports**, public,
+  default branch `master`, commit `6f7d995`. Visibility is public, as required
+  for the upstream catalog path. Referenced from README.
+- Release workspace: `release/machines/` re-synced to the catalog after the
+  2026-11-16 rename (1,216 files, 0 byte-diffs); release README rewritten to
+  the current 64-machine state; pre-sync machine trees backed up at
+  `staged-release-machines-backup/`.
+- Still pending, unchanged: hardware CPU records (needs device + OS image +
+  profiling build + `sdk.py profile`; see session 12), upstream Open-XY catalog
+  submission (catalog PR, needs hardware records and tags).

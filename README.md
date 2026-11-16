@@ -48,9 +48,7 @@ estimates and the device-compile checks above are not device measurements. See
 
 ## Repository
 
-Intended repository: `dwd-git-dev/mda-ports` (chosen 2026-11-16 over the
-`open-xy-mda` alternative: honest about being MDA ports, device-agnostic, and
-not implying affiliation with the upstream Open-XY catalog). Multi-machine
-repository layout: each machine is `machines/<id>/`, suitable for catalog
-entries with `path: machines/<id>` (see the Open-XY
+Public repository: https://github.com/dwd-git-dev/mda-ports (created 2026-11-16).
+Multi-machine repository layout: each machine is `machines/<id>/`, suitable for
+catalog entries with `path: machines/<id>` (see the Open-XY
 [catalog guide](https://github.com/etcetc000/open-xy/blob/staging/docs/catalog.md)).
