@@ -486,3 +486,109 @@ samples; packed binary 1,024,522 B.
 - Still pending, unchanged: hardware CPU records (needs device + OS image +
   profiling build + `sdk.py profile`; see session 12), upstream Open-XY catalog
   submission (catalog PR, needs hardware records and tags).
+
+
+## 2026-11-16 (session 14): Proposed catalog-wide detection for two artifact classes
+
+Trigger: mda-flute audibly clicks at E4/F4 mid-note on device. Owed measurements show
+the defect class is NOT a factor transition; it is rail-riding content in the ff_E4
+take. Both classes need audit before the catalog ships broadly.
+
+### Proposed Next Steps (workstream notes; approval needed to build anything)
+
+Two candidate detector classes, ordered by payoff. Scope decision still needs the user.
+
+#### N1. Rail-riding audit (higher risk, highest priority)
+
+**What it is.** The MDA sample engine stores 10-bit samples. If a zone's source take
+reaches full scale (ff/forte takes especially), the stored content pins to the rail
+for runs of consecutive samples; the engine's cubic interpolation between rail-pinned
+points produces a brief local dip in output at predictable positions. Every note that
+plays that zone dips at the same stored position every time.
+
+**Measured so far.**
+- mda-flute `ff_E4_0_m64.wav`: zone root 64 (`63139..98873`, `f=2,2/2`) rides the rail;
+  on device, E4/F4/F#4 click mid-note (every playback). Peak 1.0. 2,788 jumps
+  >12% of peak in the source (ff-quality take character); accepted-by-ear in a later
+  session but now flagged again.
+- Zone 64's b1 factor-boundary jump at `83410` is benign (`-182 -> -137`, ratio 0.3 of
+  local p95); the click is at ~`72300`, deep inside segment 1, with a steeply-clipped
+  rail plateau. The click local-minimum-render dip is ~3 frames wide at 0.41 s.
+- Per-machine stored-samples count |sample| >= 28000 (out of 32704): mda-oboe 21,030;
+  mda-recorder-alto 5,407; mda-ocarina-small 31,277; mda-clarinet 14,713;
+  mda-eb-clarinet 10,109; mda-recorder-bass 20,915; mda-recorder-soprano 19,222;
+  mda-soprano-sax 21,875; mda-flute 6,476; mda-accordion 1,839; mda-cello 1,332;
+  mda-violin 629; mda-piano **11** (pass-by-comparison); mda-marimba 1,921.
+- On the four machines probed so far, the true engine-dip only correlates with
+  rail-plateau regions containing rail-plateau content actively *above* the
+  surrounding plateau. Generalization is unverified.
+
+**How we would detect.**
+1. Trivial, exhaustive: count samples at >= thresholds (e.g., 28000, 30000, 31000,
+   32000) per machine; rank machines by rail volume. Available now, done for 64 machines.
+2. Engine-driven: render probes (every zone root, ~6 notes per machine, ~3.5 s each),
+   scan output for consecutive-frame dips to <= 30% of local peak, AND confirm stored
+   position at those frames sits inside a rail-run. Only engine says yes+no; the mere
+   sample-count test is not sufficient (many rail samples, few audible dips).
+3. Cross-beam sanity: zero counts on piano (human bench reference) vs huge counts on
+   flute — correlation present in this sample but not yet proof of generalization.
+
+**Open questions (need user decision).**
+- Build full-catalog scan toolchain (detector + logger + auto-candidate taper) or
+  manual engineering effort on flagged ff-only flute first?
+- Auto-fix policy: yes/no; definitely requires per-machine ear pass before merge.
+- Detection in the build pipeline (e.g., as part of `build_instrument_data.py` or
+  `machine_verify.py`) vs standalone tooling.
+- Whether to re-source ff-only flute from mf/pp dynamics (not present on disk; would
+  mean new download or different library) for this one machine.
+
+#### N2. Stored-data jump audit at factor boundaries (lower expected risk, easy measure)
+
+**What it is.** At every stored-position where the planner switches factor (b1/b2/b3),
+the 10-bit stored data is expected to be continuous; a large jump may produce a brief
+audible event whenever the engine crosses that point, for any note of that zone.
+
+**Measured so far.**
+- Whole-file jump distributions: mda-piano median 21, p95 86, p99 131;
+  mda-violin median 41, p95 172, p99 237; mda-flute median 50, p95 220, p99 317;
+  mda-timpani median 6, p95 26, p99 43.
+- Per-boundary jump ratio (jump size vs. windowed local p95, window +/- 200 samples):
+  - mda-piano: every ratio <= 1.4; exact: max single-boundary ratio was 1.4
+    (zone root 93 b2). All others <= 0.8.
+  - mda-violin: ratios up to 1.4 (zone root 83); also 1.4 at 93.
+  - mda-flute: max 0.7 (zone root 97 b1).
+  - mda-timpani: ratios <= 0.4; boundary jumps collapse to < 5 samples everywhere.
+- Conclusion: in the four machines measured, no factor boundary jump exceeded 1.4x
+  local p95 (piano max 1.4, flute max 0.7, violin max 1.4). We have not rendered
+  every note of every zone at every factor boundary; stored jumps are a proxy,
+  not a verdict. Piano and flute appear benign at this proxy.
+- Caveat: window is +/-200 stored samples; only b1<b2 boundary structure checked;
+  we have not checked the exact position of EVERY boundary, e.g. the engine's actual
+  boundary crossing frame alignment, only stored positions.
+
+**How we would detect.**
+1. For each machine, for every zone boundary (b1, b2, b3), compute
+   |sample(bp) - sample(bp-1)| against a +/-N-sample neighborhood p95.
+2. Flag outliers above local p95 * ratio thresholds; report counts (expected zero or
+   near-zero in ff takes of quality).
+3. Optionally, correlated-render probe: render each zone-root note and inspect ±8
+   frames output around each boundary vs local peak; strongest signal for new-machine
+   gates but costs a full build-run.
+
+**Open questions.**
+- What ratio threshold counts as "flag": 1.0 (flag if anything exceeds local p95) vs
+  1.5 vs uses only p99?
+- Scan all 64 machines now, or defer until N1 exists first?
+- If flagged, typical remedies: rebuild with different `STEPS` (factor plan) or select
+  a different source offset for the zone; not a post-build taper like N1.
+
+### Common caveats (both items)
+
+- The SDK is off-limits for edits (AGENTS.md rule: "Do not edit the SDK to make a
+  machine work."). Any new validation lives in our own tooling, not `sdk.py`.
+- The mda-flute fix applied this week (raised-cosine taper over 89 stored samples,
+  max-delta change 18% of peak, candidate-H by ear) is N1's first data point: it
+  eliminated a click and passed both automated gates and the user's ear pass. That
+  proves the *fix* template; the *detection* tool does not yet exist.
+- No catalog-wide machine has yet been scan-fixed. piano/violin/timpani need none,
+  per the limited notes above.
