@@ -592,3 +592,28 @@ audible event whenever the engine crosses that point, for any note of that zone.
   proves the *fix* template; the *detection* tool does not yet exist.
 - No catalog-wide machine has yet been scan-fixed. piano/violin/timpani need none,
   per the limited notes above.
+
+
+## 2026-11-16 (session 15): hardware CPU benchmark skipped — Windows MIDI stack on this host is broken
+
+**What happened.** The 4-machine build (`mda-ports-4-build-002`) was flashed to the
+device successfully — `sdk.py device push ... --record C:\Temp\mda-4-build-record-001`
+reported 10/10 files on device read back OK (all already matched; the refreshed `os.ldr`
+was copied and read back). The device was then booted.
+
+**Blocked.** Installing python-rtmidi was fine, `sdk.py profile selftest` passed, but
+the actual `sdk.py profile probe --greet` produced no output and exited 1. Inside Python,
+`rtmidi` shows empty port lists for every compiled backend and this machine's calls into
+`rtmidi.get_compiled_api()` hard-crash with heap corruption (`0xC0000374`). This is the
+Windows MIDI Services rollout failure class documented in Microsoft's Feb 2026
+"Windows MIDI Services 2026 release – known issues and workarounds"; this host also lacks
+the MIDI Settings app, `midi.exe`/`mididiag.exe`, AppX packages and registry entries for
+any MIDI tools, so the documented Legacy API Mode switch is not reachable here without
+installing out-of-box tools (a system-wide change the user has not authorized).
+
+**Decision (user).** Skip the hardware CPU measurement for now. The flash and the build
+are committed; the catalog CPU field remains empty; no CPU record exists for any machine.
+
+**Why not worked around.** LoopMIDI / rtpMIDI software bridges don't bridge a MIDI device
+that never enumerates; installing random third-party tools or making system-wide changes
+to repair the Windows MIDI stack is out of scope without explicit instruction.
