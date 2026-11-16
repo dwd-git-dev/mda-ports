@@ -1,0 +1,138 @@
+{
+  "schema": 1,
+  "id": "mdaocarinasmall",
+  "name": "mda ocarina small",
+  "parameters": [
+    {
+      "id": "hardness",
+      "label": "Hardness",
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "muffle",
+      "label": "Muffle",
+      "default": 0.8,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "decay",
+      "label": "Decay",
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "tail",
+      "label": "Tail",
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "tone",
+      "label": "Tone",
+      "control": 0,
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "random",
+      "label": "Random",
+      "control": 1,
+      "default": 0,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "stretch",
+      "label": "Stretch",
+      "control": 2,
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    },
+    {
+      "id": "tune",
+      "label": "Tune",
+      "control": 3,
+      "default": 0.5,
+      "mapping": {
+        "kind": "linear",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "display": "percent"
+    }
+  ],
+  "presets": {
+    "Concert": {
+      "hardness": 0.5,
+      "muffle": 0.298,
+      "decay": 0.648,
+      "tail": 0.5,
+      "tone": 0.5,
+      "random": 0.339,
+      "stretch": 0.5,
+      "tune": 0.5
+    },
+    "Dark": {
+      "hardness": 0,
+      "muffle": 0.304,
+      "decay": 0.5,
+      "tail": 0.602,
+      "tone": 0.5,
+      "random": 0.317,
+      "stretch": 0.5,
+      "tune": 0.5
+    }
+  },
+  "resources": {
+    "voiceBytes": 84,
+    "voiceAlignment": 4,
+    "voiceCapacity": 8,
+    "sharedBytes": 4,
+    "outputPeakQ31": 1073741824,
+    "display": {
+      "stateBytes": 776,
+      "stateAlignment": 4,
+      "paths": 4,
+      "points": 64,
+      "nodes": 113,
+      "texts": 18,
+      "palette": 16
+    }
+  },
+  "press": "page"
+}

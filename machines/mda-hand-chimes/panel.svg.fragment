@@ -1,0 +1,319 @@
+<g id="mdahandchimes_panel">
+  <polyline id="mdahandchimes_spiral_segment_0" points="240.0,128.8 240.2,128.3" fill="none" stroke="#f0f0f0" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_1" points="240.2,128.3 240.6,127.9" fill="none" stroke="#efefef" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_2" points="240.6,127.9 241.2,127.8" fill="none" stroke="#ededed" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_3" points="241.2,127.8 242.0,127.9" fill="none" stroke="#ececec" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_4" points="242.0,127.9 242.7,128.3" fill="none" stroke="#eaeaea" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_5" points="242.7,128.3 243.3,129.0" fill="none" stroke="#e9e9e9" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_6" points="243.3,129.0 243.7,130.0" fill="none" stroke="#e7e7e7" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_7" points="243.7,130.0 243.7,131.2" fill="none" stroke="#e6e6e6" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_8" points="243.7,131.2 243.4,132.4" fill="none" stroke="#e5e5e5" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_9" points="243.4,132.4 242.7,133.6" fill="none" stroke="#e3e3e3" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_10" points="242.7,133.6 241.5,134.7" fill="none" stroke="#e2e2e2" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_11" points="241.5,134.7 240.0,135.4" fill="none" stroke="#e0e0e0" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_12" points="240.0,135.4 238.2,135.6" fill="none" stroke="#dfdfdf" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_13" points="238.2,135.6 236.3,135.4" fill="none" stroke="#dddddd" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_14" points="236.3,135.4 234.4,134.6" fill="none" stroke="#dcdcdc" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_15" points="234.4,134.6 232.7,133.2" fill="none" stroke="#dadada" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_16" points="232.7,133.2 231.4,131.3" fill="none" stroke="#d9d9d9" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_17" points="231.4,131.3 230.6,129.0" fill="none" stroke="#d8d8d8" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_18" points="230.6,129.0 230.4,126.4" fill="none" stroke="#d6d6d6" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_19" points="230.4,126.4 230.9,123.8" fill="none" stroke="#d5d5d5" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_20" points="230.9,123.8 232.2,121.2" fill="none" stroke="#d3d3d3" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_21" points="232.2,121.2 234.2,119.0" fill="none" stroke="#d2d2d2" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_22" points="234.2,119.0 236.9,117.4" fill="none" stroke="#d0d0d0" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_23" points="236.9,117.4 240.0,116.5" fill="none" stroke="#cfcfcf" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_24" points="240.0,116.5 243.4,116.4" fill="none" stroke="#cecece" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_25" points="243.4,116.4 246.8,117.3" fill="none" stroke="#cccccc" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_26" points="246.8,117.3 249.9,119.1" fill="none" stroke="#cbcbcb" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_27" points="249.9,119.1 252.6,121.7" fill="none" stroke="#c9c9c9" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_28" points="252.6,121.7 254.6,125.1" fill="none" stroke="#c8c8c8" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_29" points="254.6,125.1 255.6,129.0" fill="none" stroke="#c6c6c6" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_30" points="255.6,129.0 255.6,133.2" fill="none" stroke="#c5c5c5" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_31" points="255.6,133.2 254.4,137.3" fill="none" stroke="#c3c3c3" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_32" points="254.4,137.3 252.1,141.1" fill="none" stroke="#c2c2c2" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_33" points="252.1,141.1 248.8,144.3" fill="none" stroke="#c1c1c1" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_34" points="248.8,144.3 244.7,146.6" fill="none" stroke="#bfbfbf" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_35" points="244.7,146.6 240.0,147.7" fill="none" stroke="#bebebe" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_36" points="240.0,147.7 235.0,147.5" fill="none" stroke="#bcbcbc" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_37" points="235.0,147.5 230.1,146.1" fill="none" stroke="#bbbbbb" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_38" points="230.1,146.1 225.7,143.3" fill="none" stroke="#b9b9b9" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_39" points="225.7,143.3 222.0,139.4" fill="none" stroke="#b8b8b8" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_40" points="222.0,139.4 219.5,134.5" fill="none" stroke="#b7b7b7" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_41" points="219.5,134.5 218.2,129.0" fill="none" stroke="#b5b5b5" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_42" points="218.2,129.0 218.5,123.2" fill="none" stroke="#b4b4b4" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_43" points="218.5,123.2 220.3,117.6" fill="none" stroke="#b2b2b2" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_44" points="220.3,117.6 223.5,112.5" fill="none" stroke="#b1b1b1" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_45" points="223.5,112.5 228.1,108.4" fill="none" stroke="#afafaf" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_46" points="228.1,108.4 233.7,105.5" fill="none" stroke="#aeaeae" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_47" points="233.7,105.5 240.0,104.1" fill="none" stroke="#acacac" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_48" points="240.0,104.1 246.6,104.5" fill="none" stroke="#ababab" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_49" points="246.6,104.5 252.9,106.6" fill="none" stroke="#aaaaaa" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_50" points="252.9,106.6 258.7,110.3" fill="none" stroke="#a8a8a8" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_51" points="258.7,110.3 263.3,115.5" fill="none" stroke="#a7a7a7" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_52" points="263.3,115.5 266.5,121.9" fill="none" stroke="#a5a5a5" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_53" points="266.5,121.9 267.9,129.0" fill="none" stroke="#a4a4a4" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_54" points="267.9,129.0 267.5,136.4" fill="none" stroke="#a2a2a2" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_55" points="267.5,136.4 265.1,143.5" fill="none" stroke="#a1a1a1" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_56" points="265.1,143.5 260.8,149.8" fill="none" stroke="#a0a0a0" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_57" points="260.8,149.8 255.0,155.0" fill="none" stroke="#9e9e9e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_58" points="255.0,155.0 247.9,158.5" fill="none" stroke="#9d9d9d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_59" points="247.9,158.5 240.0,160.0" fill="none" stroke="#9b9b9b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_60" points="240.0,160.0 231.8,159.5" fill="none" stroke="#9a9a9a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_61" points="231.8,159.5 224.0,156.7" fill="none" stroke="#989898" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_62" points="224.0,156.7 217.0,152.0" fill="none" stroke="#979797" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_63" points="217.0,152.0 211.4,145.5" fill="none" stroke="#959595" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_64" points="211.4,145.5 207.6,137.7" fill="none" stroke="#949494" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_65" points="207.6,137.7 205.9,129.0" fill="none" stroke="#939393" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_66" points="205.9,129.0 206.6,120.0" fill="none" stroke="#919191" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_67" points="206.6,120.0 209.6,111.4" fill="none" stroke="#909090" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_68" points="209.6,111.4 214.8,103.8" fill="none" stroke="#8e8e8e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_69" points="214.8,103.8 221.9,97.7" fill="none" stroke="#8d8d8d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_70" points="221.9,97.7 230.5,93.6" fill="none" stroke="#8b8b8b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_71" points="230.5,93.6 240.0,91.8" fill="none" stroke="#8a8a8a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_72" points="240.0,91.8 249.8,92.6" fill="none" stroke="#898989" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_73" points="249.8,92.6 259.1,95.9" fill="none" stroke="#878787" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_74" points="259.1,95.9 267.4,101.6" fill="none" stroke="#868686" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_75" points="267.4,101.6 274.0,109.4" fill="none" stroke="#848484" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_76" points="274.0,109.4 278.4,118.7" fill="none" stroke="#838383" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_77" points="278.4,118.7 280.3,129.0" fill="none" stroke="#818181" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_78" points="280.3,129.0 279.4,139.6" fill="none" stroke="#808080" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_79" points="279.4,139.6 275.7,149.6" fill="none" stroke="#7e7e7e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_80" points="275.7,149.6 269.6,158.6" fill="none" stroke="#7d7d7d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_81" points="269.6,158.6 261.2,165.6" fill="none" stroke="#7c7c7c" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_82" points="261.2,165.6 251.1,170.4" fill="none" stroke="#7a7a7a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_83" points="251.1,170.4 240.0,172.3" fill="none" stroke="#797979" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_84" points="240.0,172.3 228.7,171.4" fill="none" stroke="#777777" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_85" points="228.7,171.4 217.8,167.4" fill="none" stroke="#767676" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_86" points="217.8,167.4 208.3,160.7" fill="none" stroke="#747474" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_87" points="208.3,160.7 200.7,151.7" fill="none" stroke="#737373" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_88" points="200.7,151.7 195.7,140.9" fill="none" stroke="#727272" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_89" points="195.7,140.9 193.6,129.0" fill="none" stroke="#707070" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_90" points="193.6,129.0 194.7,116.9" fill="none" stroke="#6f6f6f" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_91" points="194.7,116.9 198.9,105.3" fill="none" stroke="#6d6d6d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_92" points="198.9,105.3 206.1,95.1" fill="none" stroke="#6c6c6c" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_93" points="206.1,95.1 215.8,87.0" fill="none" stroke="#6a6a6a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_94" points="215.8,87.0 227.3,81.7" fill="none" stroke="#696969" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_95" points="227.3,81.7 240.0,79.5" fill="none" stroke="#676767" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_96" points="240.0,79.5 252.9,80.7" fill="none" stroke="#666666" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_97" points="252.9,80.7 265.3,85.2" fill="none" stroke="#656565" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_98" points="265.3,85.2 276.1,92.9" fill="none" stroke="#636363" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_99" points="276.1,92.9 284.6,103.2" fill="none" stroke="#626262" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_100" points="284.6,103.2 290.3,115.5" fill="none" stroke="#606060" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_101" points="290.3,115.5 292.6,129.0" fill="none" stroke="#5f5f5f" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_102" points="292.6,129.0 291.3,142.7" fill="none" stroke="#5d5d5d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_103" points="291.3,142.7 286.4,155.8" fill="none" stroke="#5c5c5c" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_104" points="286.4,155.8 278.3,167.3" fill="none" stroke="#5b5b5b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_105" points="278.3,167.3 267.3,176.3" fill="none" stroke="#595959" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_106" points="267.3,176.3 254.3,182.3" fill="none" stroke="#585858" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_107" points="254.3,182.3 240.0,184.7" fill="none" stroke="#565656" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_108" points="240.0,184.7 225.5,183.3" fill="none" stroke="#555555" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_109" points="225.5,183.3 211.7,178.1" fill="none" stroke="#535353" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_110" points="211.7,178.1 199.6,169.4" fill="none" stroke="#525252" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_111" points="199.6,169.4 190.0,157.9" fill="none" stroke="#505050" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_112" points="190.0,157.9 183.8,144.1" fill="none" stroke="#4f4f4f" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_113" points="183.8,144.1 181.3,129.0" fill="none" stroke="#4e4e4e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_114" points="181.3,129.0 182.8,113.7" fill="none" stroke="#4c4c4c" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_115" points="182.8,113.7 188.2,99.1" fill="none" stroke="#4b4b4b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_116" points="188.2,99.1 197.4,86.4" fill="none" stroke="#494949" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_117" points="197.4,86.4 209.6,76.4" fill="none" stroke="#484848" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_118" points="209.6,76.4 224.1,69.8" fill="none" stroke="#464646" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_119" points="224.1,69.8 240.0,67.2" fill="none" stroke="#454545" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_120" points="240.0,67.2 256.1,68.8" fill="none" stroke="#444444" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_121" points="256.1,68.8 271.4,74.6" fill="none" stroke="#424242" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_122" points="271.4,74.6 284.8,84.2" fill="none" stroke="#414141" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_123" points="284.8,84.2 295.3,97.1" fill="none" stroke="#3f3f3f" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_124" points="295.3,97.1 302.2,112.3" fill="none" stroke="#3e3e3e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_125" points="302.2,112.3 304.9,129.0" fill="none" stroke="#3c3c3c" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_126" points="304.9,129.0 303.2,145.9" fill="none" stroke="#3b3b3b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_127" points="303.2,145.9 297.1,162.0" fill="none" stroke="#393939" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_128" points="297.1,162.0 287.0,176.0" fill="none" stroke="#383838" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_129" points="287.0,176.0 273.5,187.0" fill="none" stroke="#373737" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_130" points="273.5,187.0 257.5,194.2" fill="none" stroke="#353535" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_131" points="257.5,194.2 240.0,197.0" fill="none" stroke="#343434" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_132" points="240.0,197.0 222.3,195.2" fill="none" stroke="#323232" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_133" points="222.3,195.2 205.5,188.8" fill="none" stroke="#313131" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_134" points="205.5,188.8 190.8,178.2" fill="none" stroke="#2f2f2f" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_135" points="190.8,178.2 179.4,164.0" fill="none" stroke="#2e2e2e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_136" points="179.4,164.0 171.9,147.3" fill="none" stroke="#2d2d2d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_137" points="171.9,147.3 168.9,129.0" fill="none" stroke="#2b2b2b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_138" points="168.9,129.0 170.9,110.5" fill="none" stroke="#2a2a2a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_139" points="170.9,110.5 177.6,93.0" fill="none" stroke="#282828" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_140" points="177.6,93.0 188.7,77.7" fill="none" stroke="#272727" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_141" points="188.7,77.7 203.4,65.7" fill="none" stroke="#252525" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_142" points="203.4,65.7 220.9,57.9" fill="none" stroke="#242424" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_143" points="220.9,57.9 240.0,54.9" fill="none" stroke="#222222" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_144" points="240.0,54.9 259.3,56.9" fill="none" stroke="#212121" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_145" points="259.3,56.9 277.6,63.9" fill="none" stroke="#202020" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_146" points="277.6,63.9 293.5,75.5" fill="none" stroke="#1e1e1e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_147" points="293.5,75.5 306.0,90.9" fill="none" stroke="#1d1d1d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_148" points="306.0,90.9 314.1,109.1" fill="none" stroke="#1b1b1b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_149" points="314.1,109.1 317.2,129.0" fill="none" stroke="#1a1a1a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_150" points="317.2,129.0 315.1,149.1" fill="none" stroke="#181818" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_151" points="315.1,149.1 307.8,168.1" fill="none" stroke="#171717" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_152" points="307.8,168.1 295.7,184.7" fill="none" stroke="#161616" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_153" points="295.7,184.7 279.6,197.7" fill="none" stroke="#141414" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_154" points="279.6,197.7 260.6,206.1" fill="none" stroke="#131313" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_155" points="260.6,206.1 240.0,209.3" fill="none" stroke="#111111" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_156" points="240.0,209.3 219.1,207.1" fill="none" stroke="#101010" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_157" points="219.1,207.1 199.3,199.4" fill="none" stroke="#0e0e0e" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_158" points="199.3,199.4 182.1,186.9" fill="none" stroke="#0d0d0d" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_159" points="182.1,186.9 168.7,170.2" fill="none" stroke="#0b0b0b" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_160" points="168.7,170.2 160.0,150.4" fill="none" stroke="#0a0a0a" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_161" points="160.0,150.4 156.6,129.0" fill="none" stroke="#090909" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_162" points="156.6,129.0 159.0,107.3" fill="none" stroke="#070707" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_163" points="159.0,107.3 166.9,86.8" fill="none" stroke="#060606" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_164" points="166.9,86.8 180.0,69.0" fill="none" stroke="#040404" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_165" points="180.0,69.0 197.3,55.0" fill="none" stroke="#030303" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_166" points="197.3,55.0 217.8,46.0" fill="none" stroke="#010101" stroke-width="12.4" stroke-linecap="round"/>
+  <polyline id="mdahandchimes_spiral_segment_167" points="217.8,46.0 240.0,42.5" fill="none" stroke="#000000" stroke-width="12.4" stroke-linecap="round"/>
+<!-- SDK two-page header: keep this block before machine artwork below y=38. -->
+<path d="M0,0 L480,0 L480,38 L0,38 Z" fill="#000000"/>
+<path id="mdahandchimes_node_4" transform="matrix(1 0 0 1 0 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#000000" stroke="#000000" stroke-width="0.5"/>
+<path id="mdahandchimes_node_5" transform="matrix(1 0 0 1 60 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#323232" stroke="#323232" stroke-width="0.5"/>
+<path id="mdahandchimes_node_6" transform="matrix(1 0 0 1 120 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#4B4B4B" stroke="#4B4B4B" stroke-width="0.5"/>
+<path id="mdahandchimes_node_7" transform="matrix(1 0 0 1 180 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#646464" stroke="#646464" stroke-width="0.5"/>
+<path id="mdahandchimes_node_8" transform="matrix(1 0 0 1 240 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#7D7D7D" stroke="#7D7D7D" stroke-width="0.5"/>
+<path id="mdahandchimes_node_9" transform="matrix(1 0 0 1 300 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#969696" stroke="#969696" stroke-width="0.5"/>
+<path id="mdahandchimes_node_10" transform="matrix(1 0 0 1 360 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#AFAFAF" stroke="#AFAFAF" stroke-width="0.5"/>
+<path id="mdahandchimes_node_11" transform="matrix(1 0 0 1 420 0)" d="M0,0 L60,0 L60,20 L0,20 Z" fill="#CDCDCD" stroke="#CDCDCD" stroke-width="0.5"/>
+<text id="mdahandchimes_text_0" transform="matrix(1 0 0 1 5 10)" fill="#CBCBCB" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_1" transform="matrix(1 0 0 1 125 10)" fill="#CBCBCB" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_2" transform="matrix(1 0 0 1 245 10)" fill="#000000" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_3" transform="matrix(1 0 0 1 365 10)" fill="#000000" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_4" transform="matrix(1 0 0 1 65 17.4)" fill="#CBCBCB" font-family="UniversNextPro-Light" font-size="20px">-</text>
+<text id="mdahandchimes_text_5" transform="matrix(1 0 0 1 185 17.4)" fill="#CBCBCB" font-family="UniversNextPro-Light" font-size="20px">-</text>
+<text id="mdahandchimes_text_6" transform="matrix(1 0 0 1 305 17.4)" fill="#000000" font-family="UniversNextPro-Light" font-size="20px">-</text>
+<text id="mdahandchimes_text_7" transform="matrix(1 0 0 1 425 17.4)" fill="#000000" font-family="UniversNextPro-Light" font-size="20px">-</text>
+<text id="mdahandchimes_text_8" transform="matrix(1 0 0 1 5 33)" fill="#5A5A5A" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_9" transform="matrix(1 0 0 1 125 33)" fill="#5A5A5A" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_10" transform="matrix(1 0 0 1 245 33)" fill="#5A5A5A" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_11" transform="matrix(1 0 0 1 365 33)" fill="#5A5A5A" font-family="UniversNextPro-Light" font-size="10px">-</text>
+<text id="mdahandchimes_text_12" transform="matrix(1 0 0 1 65 33)" fill="#707070" font-family="UniversNextPro-Light" font-size="13px">-</text>
+<text id="mdahandchimes_text_13" transform="matrix(1 0 0 1 185 33)" fill="#707070" font-family="UniversNextPro-Light" font-size="13px">-</text>
+<text id="mdahandchimes_text_14" transform="matrix(1 0 0 1 305 33)" fill="#707070" font-family="UniversNextPro-Light" font-size="13px">-</text>
+<text id="mdahandchimes_text_15" transform="matrix(1 0 0 1 425 33)" fill="#707070" font-family="UniversNextPro-Light" font-size="13px">-</text>
+  <path id="mdahandchimes_node_0" d="M-32 -32 L-28 -32 L-24 -32 L-20 -32 L-16 -32 L-12 -32 L-8 -32 L-4 -32 L0 -32 L4 -32 L8 -32 L12 -32 L16 -32 L20 -32 L24 -32 L28 -32 L32 -32 L32 -28 L32 -24 L32 -20 L32 -16 L32 -12 L32 -8 L32 -4 L32 0 L32 4 L32 8 L32 12 L32 16 L32 20 L32 24 L32 28 L32 32 L28 32 L24 32 L20 32 L16 32 L12 32 L8 32 L4 32 L0 32 L-4 32 L-8 32 L-12 32 L-16 32 L-20 32 L-24 32 L-28 32 L-32 32 L-32 28 L-32 24 L-32 20 L-32 16 L-32 12 L-32 8 L-32 4 L-32 0 L-32 -4 L-32 -8 L-32 -12 L-32 -16 L-32 -20 L-32 -24 L-32 -28 Z" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round"/>
+  <path id="mdahandchimes_node_1" d="M-32 -32 L-28 -32 L-24 -32 L-20 -32 L-16 -32 L-12 -32 L-8 -32 L-4 -32 L0 -32 L4 -32 L8 -32 L12 -32 L16 -32 L20 -32 L24 -32 L28 -32 L32 -32 L32 -28 L32 -24 L32 -20 L32 -16 L32 -12 L32 -8 L32 -4 L32 0 L32 4 L32 8 L32 12 L32 16 L32 20 L32 24 L32 28 L32 32 L28 32 L24 32 L20 32 L16 32 L12 32 L8 32 L4 32 L0 32 L-4 32 L-8 32 L-12 32 L-16 32 L-20 32 L-24 32 L-28 32 L-32 32 L-32 28 L-32 24 L-32 20 L-32 16 L-32 12 L-32 8 L-32 4 L-32 0 L-32 -4 L-32 -8 L-32 -12 L-32 -16 L-32 -20 L-32 -24 L-32 -28 Z" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round"/>
+  <path id="mdahandchimes_node_2" d="M-32 -32 L-28 -32 L-24 -32 L-20 -32 L-16 -32 L-12 -32 L-8 -32 L-4 -32 L0 -32 L4 -32 L8 -32 L12 -32 L16 -32 L20 -32 L24 -32 L28 -32 L32 -32 L32 -28 L32 -24 L32 -20 L32 -16 L32 -12 L32 -8 L32 -4 L32 0 L32 4 L32 8 L32 12 L32 16 L32 20 L32 24 L32 28 L32 32 L28 32 L24 32 L20 32 L16 32 L12 32 L8 32 L4 32 L0 32 L-4 32 L-8 32 L-12 32 L-16 32 L-20 32 L-24 32 L-28 32 L-32 32 L-32 28 L-32 24 L-32 20 L-32 16 L-32 12 L-32 8 L-32 4 L-32 0 L-32 -4 L-32 -8 L-32 -12 L-32 -16 L-32 -20 L-32 -24 L-32 -28 Z" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round"/>
+<path id="mdahandchimes_node_3" d="M-32 -32 L-28 -32 L-24 -32 L-20 -32 L-16 -32 L-12 -32 L-8 -32 L-4 -32 L0 -32 L4 -32 L8 -32 L12 -32 L16 -32 L20 -32 L24 -32 L28 -32 L32 -32 L32 -28 L32 -24 L32 -20 L32 -16 L32 -12 L32 -8 L32 -4 L32 0 L32 4 L32 8 L32 12 L32 16 L32 20 L32 24 L32 28 L32 32 L28 32 L24 32 L20 32 L16 32 L12 32 L8 32 L4 32 L0 32 L-4 32 L-8 32 L-12 32 L-16 32 L-20 32 L-24 32 L-28 32 L-32 32 L-32 28 L-32 24 L-32 20 L-32 16 L-32 12 L-32 8 L-32 4 L-32 0 L-32 -4 L-32 -8 L-32 -12 L-32 -16 L-32 -20 L-32 -24 L-32 -28 Z" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round"/>
+  <circle id="mdahandchimes_palette_0" cx="640" cy="0" r="1" fill="#000000" stroke="#000000" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_1" cx="640" cy="0" r="1" fill="#181818" stroke="#181818" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_2" cx="640" cy="0" r="1" fill="#303030" stroke="#303030" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_3" cx="640" cy="0" r="1" fill="#484848" stroke="#484848" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_4" cx="640" cy="0" r="1" fill="#606060" stroke="#606060" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_5" cx="640" cy="0" r="1" fill="#787878" stroke="#787878" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_6" cx="640" cy="0" r="1" fill="#909090" stroke="#909090" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_7" cx="640" cy="0" r="1" fill="#a8a8a8" stroke="#a8a8a8" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_8" cx="640" cy="0" r="1" fill="#c0c0c0" stroke="#c0c0c0" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_9" cx="640" cy="0" r="1" fill="#d8d8d8" stroke="#d8d8d8" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_10" cx="640" cy="0" r="1" fill="#f0f0f0" stroke="#f0f0f0" stroke-width="1"/>
+  <circle id="mdahandchimes_palette_11" cx="640" cy="0" r="1" fill="#780606" stroke="#780606" stroke-width="0.15"/>
+  <circle id="mdahandchimes_palette_12" cx="640" cy="0" r="1" fill="#780606" stroke="#780606" stroke-width="0.5"/>
+  <circle id="mdahandchimes_palette_13" cx="640" cy="0" r="1" fill="#780606" stroke="#780606" stroke-width="1.25"/>
+  <circle id="mdahandchimes_palette_14" cx="640" cy="0" r="1" fill="#780606" stroke="#780606" stroke-width="2.1"/>
+  <circle id="mdahandchimes_palette_15" cx="640" cy="0" r="1" fill="#780606" stroke="#780606" stroke-width="3"/>
+  <circle id="mdahandchimes_node_12" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_13" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_14" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_15" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_16" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_17" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_18" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_19" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_20" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_21" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_22" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_23" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_24" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_25" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_26" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_27" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_28" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_29" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_30" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_31" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_32" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_33" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_34" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_35" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_36" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_37" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_38" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_39" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_40" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_41" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_42" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_43" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_44" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_45" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_46" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_47" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_48" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_49" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_50" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_51" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_52" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_53" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_54" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_55" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_56" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_57" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_58" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_59" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_60" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_61" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_62" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_63" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_64" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_65" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_66" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_67" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_68" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_69" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_70" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_71" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_72" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_73" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_74" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_75" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_76" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_77" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_78" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_79" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_80" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_81" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_82" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_83" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_84" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_85" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_86" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_87" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_88" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_89" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_90" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_91" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_92" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_93" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_94" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_95" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_96" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_97" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_98" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <circle id="mdahandchimes_node_99" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <path id="mdahandchimes_node_100" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_101" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_102" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_103" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_104" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_105" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_106" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_107" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_108" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_109" d="M-32 0 L32 0" fill="none" stroke="#780606" stroke-width="3"/>
+  <path id="mdahandchimes_node_110" d="M-120,0 C-84,-40 84,-40 120,0 C84,40 -84,40 -120,0 Z M-92,-22 L-110,-42 M-54,-36 L-64,-56 M-18,-40 L-20,-60 M18,-40 L20,-60 M54,-36 L64,-56 M92,-22 L110,-42" fill="none" stroke="#c0c0c0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="mdahandchimes_node_111" d="M-120,0 C-84,-40 84,-40 120,0 C84,40 -84,40 -120,0 Z M-92,-22 L-110,-42 M-54,-36 L-64,-56 M-18,-40 L-20,-60 M18,-40 L20,-60 M54,-36 L64,-56 M92,-22 L110,-42" fill="none" stroke="#c0c0c0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle id="mdahandchimes_node_112" cx="0" cy="0" r="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text id="mdahandchimes_text_16" fill="#b8b8b8" font-family="UniversNextPro-Light" font-size="27px" text-anchor="middle"></text>
+<text id="mdahandchimes_text_17" fill="#b8b8b8" font-family="UniversNextPro-Light" font-size="27px" text-anchor="middle"></text>
+</g>

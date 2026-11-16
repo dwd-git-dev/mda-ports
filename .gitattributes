@@ -1,0 +1,15 @@
+# Large binary-adjacent files (10-bit packed sample arrays, hex C arrays).
+# Plain text storage is fine here (~141 MB total); LFS is not required.
+# *_samples.hpp and *_zones.hpp are text hex arrays, committed as text.
+
+* text=auto
+*.hpp text
+*.cpp text
+*.h text
+*.json text
+*.md text
+*.svg text
+*.txt text
+*.yml text
+*.fragment text
+

@@ -1,0 +1,7 @@
+__pycache__/
+*.exe
+*.pyc
+.DS_Store
+Thumbs.db
+*.wav
+*.zip
